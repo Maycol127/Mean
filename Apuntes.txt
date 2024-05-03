@@ -1,0 +1,11 @@
+El boostrap.min.css pesa menos que el boostrap, debido a que todo está junto.
+Cada componente pertenece a un módulo.
+45.189.117.71
+
+mongodb
+Username: maycolninaja
+pass: mO28qGxNOdCraIC4
+
+mongodb+srv://maycolninaja:<password>@cluster0.tscj18h.mongodb.net/
+
+
